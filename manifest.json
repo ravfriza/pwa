@@ -5,7 +5,7 @@
     "background_color": "#34d5eb",
     "theme_color": "#eb7d34",
     "display": "standalone",
-    "icons": {
+    "icons": [{
         "src": "img/bootstrap-logo.png",
         "sizes": "192x192",
         "type": "image/png"
@@ -15,4 +15,5 @@
         "sizes": "512x512",
         "type": "image/png"
     }
+]
 }
